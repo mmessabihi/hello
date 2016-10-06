@@ -3,7 +3,7 @@ int somme(int a, int b)
   return a+b;
 }
 
-int produit(int a, int b)
+int produit(int a, int b) // modi par pc messabihi
 {
   return  a*b;
 }
@@ -14,7 +14,7 @@ void main()
   return a;
 }
 
-test
+test                 //  modi par pc messabihi 	
 
 rouge
 
