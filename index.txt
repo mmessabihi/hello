@@ -8,6 +8,10 @@ int produit(int a, int b) // modi par pc messabihi
   return  a*b;
 }
 
+<head>
+  <title>Mon Titre</title>
+</head>
+
 void main()
 {
   int a= 0;
