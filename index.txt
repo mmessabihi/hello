@@ -8,10 +8,11 @@ int produit(int a, int b) // modi par pc messabihi
   return  a*b;
 }
 
-<head>
-  <title>My Title</title>
-</head>
-
+if ( x > 0 )
+  x = max ( i , j ) ;
+else
+  x = min ( i , j ) ;
+  
 void main()
 {
   int a= 0;
