@@ -10,7 +10,7 @@ int produit(int a, int b) // modi par pc messabihi
 
 if ( x > 0 )
   x = echange ( i , j ) ;
-else
+while(i)
   x = permute ( i , j ) ;
   
 void main()
