@@ -11,7 +11,7 @@ int produit(int a, int b) // modi par pc messabihi
 if ( x > 0 )
   x = max ( i , j ) ;
 else
-  x = min ( i , j ) ;
+  x = permute ( i , j ) ;
   
 void main()
 {
