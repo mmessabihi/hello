@@ -9,7 +9,7 @@ int produit(int a, int b) // modi par pc messabihi
 }
 
 if ( x > 0 )
-  x = max ( i , j ) ;
+  x = echange ( i , j ) ;
 else
   x = min ( i , j ) ;
   
