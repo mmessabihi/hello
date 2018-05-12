@@ -9,7 +9,7 @@ int produit(int a, int b) // modi par pc messabihi
 }
 
 <head>
-  <title>Mon Titre</title>
+  <title>My Title</title>
 </head>
 
 void main()
